@@ -1,0 +1,14 @@
+body
+{
+    background-color: rgb(59, 58, 58);
+}
+
+#tittle{
+    text-align: center;
+    color: white;
+}
+
+.btn btn-dark{
+    margin-left: 33px;
+
+}
